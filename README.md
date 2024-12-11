@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto de curso
 
 Este es el proyecto que desarrollamos en clase para el **Taller de desarrollo de una aplicación con IA generativa** del [Diplomado en Inteligencia Artificial Generativa](https://educacioncontinua.uc.cl/programas/diplomado-en-inteligencia-artificial-generativa/) de la PUC.
@@ -58,3 +59,7 @@ Si descargaste el proyecto con `git clone`, para agregarlo a tu propio repositor
 1. [Crear un nuevo repositorio](https://github.com/new) (en blanco).
 2. Cambiar la URL del `origin` por la de tu nuevo repositorio: `git remote set-url origin git@github.com:tu-username/tu-nombre-de-repo.git`
 3. Listo, ahora puedes subir el código base a tu propio repositorio con `git push -u origin main`
+=======
+# Gen-AI
+Grupo-4
+>>>>>>> 2ec0ff6677b0228dbeaa570f55f38400e101bfa9
